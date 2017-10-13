@@ -5,6 +5,6 @@ My name is Mahmoud Abdel-Mon'em. I'm a Masters degree student in Ain Shams Unive
 # Research Interests
 Deep Learning Hardware Acceleration, Low Power GPU Design, VLSI Design, High Speed Serial Links.
 # Contact me
-**Email**: mahmoud.abdelmonaem@outlook.com
+**Email**: [mahmoud.abdelmonaem@outlook.com](mailto:mahmoud.abdelmonaem@outlook.com)
 
-**LinkedIn**: https://linkedin.com/in/mmonaem
+**LinkedIn**: [https://linkedin.com/in/mmonaem](https://linkedin.com/in/mmonaem)
