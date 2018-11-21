@@ -1,7 +1,7 @@
 # Welcome
 Welcome to my personal home page. I hope you can find some interesting info and topics in here. Feel free to contact me if you want to ask about anything.
 # About me
-My name is Mahmoud Abdel-Mon'em. I'm a Masters degree student in Ain Shams University, Cairo, Egypt. My thesis is about **Deep Learning Hardware Acceleration** advised by Prof. Maged Ghoneima.
+My name is Mahmoud Abdelgawad. I'm a Masters degree student in Ain Shams University, Cairo, Egypt. My thesis is about **Deep Learning Hardware Acceleration** advised by Prof. Maged Ghoneima.
 # Research interests
 Deep Learning Hardware Acceleration, Low Power GPU Design, VLSI Design, High Speed Serial Links.
 # Contact me
